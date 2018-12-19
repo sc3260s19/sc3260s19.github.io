@@ -57,14 +57,14 @@ Remember, you can always type ```commands101``` from the ACCRE command line for 
 --- | --- | ---
 Mon, Jan 7 | Course Intro, Syllabus, etc. | 
 Wed, Jan 9 | Intro to Unix, Day 1 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 1-3 of Software Carpentry Unix Tutorial (see above) and VIM tutorial
-Fri, Jan 11 | |
-Mon, Jan 14 | **MLK Day, No Class** | :no_good:
-Wed, Jan 16 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
-Fri, Jan 18 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
-Mon, Jan 21 | Using Git and GitHub |
-Wed, Jan 23 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s18/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Fri, Jan 25 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s18/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Mon, Jan 28 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s18/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Fri, Jan 11 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
+Mon, Jan 14 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
+Wed, Jan 16 | Using Git and GitHub | 
+Fri, Jan 18 | ACCRE Vizualization Portal | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
+Mon, Jan 21 | *MLK Day, No Class* | :no_good:
+Wed, Jan 23 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Fri, Jan 25 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Mon, Jan 28 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
 Wed, Jan 30 | Compiling Programs | [Slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2017/01/compiling_programs.pdf)
 Fri, Feb 1 | Intro to Molecular Dynamics Simulations |
 Mon, Feb 4 | Parallel Computing, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/parallel_comp/)
