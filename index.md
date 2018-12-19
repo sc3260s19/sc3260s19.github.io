@@ -60,7 +60,7 @@ Wed, Jan 9 | Intro to Unix, Day 1 | Guest Lecturer: [@KevinButerbaugh](https://w
 Fri, Jan 11 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
 Mon, Jan 14 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
 Wed, Jan 16 | Using Git and GitHub | 
-Fri, Jan 18 | ACCRE Vizualization Portal | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
+Fri, Jan 18 | ACCRE Vizualization Portal | 
 Mon, Jan 21 | *MLK Day, No Class* | :no_good:
 Wed, Jan 23 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
 Fri, Jan 25 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
