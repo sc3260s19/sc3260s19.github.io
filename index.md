@@ -8,7 +8,7 @@
 * INSTRUCTOR EMAIL: will@accre.vanderbilt.edu
 * INSTRUCTOR OFFICE: Hill Center Suite 201
 * INSTRUCTOR WORK PHONE: 615-343-4134
-* OFFICE HOURS: TBD
+* OFFICE HOURS: Tuesday 11am - 1pm, Thursday 3:30 - 5pm, location TBD
 * GITHUB REPOS: <https://github.com/sc3260s19>
 * SYLLABUS: <https://github.com/sc3260s19/syllabus>
 
@@ -58,12 +58,12 @@ Remember, you can always type ```commands101``` from the ACCRE command line for 
 Mon, Jan 7 | Course Intro, Syllabus, etc. | 
 Wed, Jan 9 | Intro to Unix, Day 1 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 1-3 of Software Carpentry Unix Tutorial (see above) and VIM tutorial
 Fri, Jan 11 | Intro to Unix, Day 2 | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh), Complete sections 4-7 of Software Carpentry Unix Tutorial
-Mon, Jan 14 | Intro to the ACCRE Cluster | Guest Lecturer: [@KevinButerbaugh](https://www.github.com/KevinButerbaugh)
+Mon, Jan 14 | Intro to the ACCRE Cluster |
 Wed, Jan 16 | Using Git and GitHub | 
 Fri, Jan 18 | ACCRE Vizualization Portal | 
 Mon, Jan 21 | *MLK Day, No Class* | :no_good:
-Wed, Jan 23 | C Programming, Day 1 | Quiz :expressionless: [Start on exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
-Fri, Jan 25 | C Programming, Day 2 | [Continue exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Wed, Jan 23 | C Programming, Day 1 | [Start on exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
+Fri, Jan 25 | C Programming, Day 2 | Quiz :expressionless: [Continue exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
 Mon, Jan 28 | C Programming, Day 3 | [Complete exercises](https://github.com/sc3260s19/Cprogramming/blob/master/C-Programming-Exercises.pdf)
 Wed, Jan 30 | Compiling Programs | [Slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2017/01/compiling_programs.pdf)
 Fri, Feb 1 | Intro to Molecular Dynamics Simulations |
