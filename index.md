@@ -69,9 +69,9 @@ Wed, Jan 30 | Compiling Programs | [Slides](http://www.accre.vanderbilt.edu/wp-c
 Fri, Feb 1 | Intro to Molecular Dynamics Simulations |
 Mon, Feb 4 | Parallel Computing, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/parallel_comp/)
 Wed, Feb 6 | Parallel Computing, Day 2 | [Read sections 4-7](https://computing.llnl.gov/tutorials/parallel_comp/)
-Fri, Feb 8 | Parallel Computing, Day 3 | Homework 1 Due :unamused:
+Fri, Feb 8 | Parallel Computing, Day 3 | 
 Mon, Feb 11 | Vectorization | [Reference 1](http://www.insideloop.io/blog/2014/10/14/arrays-part-iii-vectorization/), [Reference 2](https://d3f8ykwhia686p.cloudfront.net/1live/intel/CompilerAutovectorizationGuide.pdf), [Exercises](https://github.com/sc3260s17/vectorization)
-Wed, Feb 13 | Multithreaded, Shared Memory Programming, Day 1 | [Read sections 1-4](https://computing.llnl.gov/tutorials/openMP/)
+Wed, Feb 13 | Multithreaded, Shared Memory Programming, Day 1 | Homework 1 Due :unamused: [Read sections 1-4](https://computing.llnl.gov/tutorials/openMP/)
 Fri, Feb 15 | Multithreaded, Shared Memory Programming, Day 2 | [Read sections 5-8](https://computing.llnl.gov/tutorials/openMP/)
 Mon, Feb 18 | Multithreaded, Shared Memory Programming, Day 3 |
 Wed, Feb 20 | Multithreaded, Shared Memory Programming, Day 4 | [Read sections 1-4](https://computing.llnl.gov/tutorials/pthreads/)
