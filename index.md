@@ -8,7 +8,7 @@
 * INSTRUCTOR EMAIL: will@accre.vanderbilt.edu
 * INSTRUCTOR OFFICE: Hill Center Suite 201
 * INSTRUCTOR WORK PHONE: 615-343-4134
-* OFFICE HOURS: Tuesday 11am - 1pm, Thursday 3:30 - 5pm, location TBD
+* OFFICE HOURS: Tuesday 11am - 1pm in FGH 300, Thursday 3:30 - 5pm in FGH atrium
 * GITHUB REPOS: <https://github.com/sc3260s19>
 * SYLLABUS: <https://github.com/sc3260s19/syllabus>
 
