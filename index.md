@@ -82,14 +82,15 @@ Fri, Feb 28 | NVIDIA GPU CUDA Programming, Day 2 | [Read section 2](http://docs.
 Mon, Mar 4 | **Spring Break, No Class**  | :no_good:
 Wed, Mar 6 | **Spring Break, No Class** | :no_good:
 Fri, Mar 8 | **Spring Break, No Class** | :no_good:
-Mon, Mar 13 | NVIDIA GPU CUDA Programming, Day 3 |
-Wed, Mar 15 | NVIDIA GPU CUDA Programming, Day 4 | Homework 2 Due :unamused:, [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
-Fri, Mar 17 | NVIDIA GPU CUDA Programming, Day 5 | 
-Mon, Mar 20 | MPI, Distributed Memory Programming, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/mpi/)
-Wed, Mar 22 | MPI, Distributed Memory Programming, Day 2 |
-Fri, Mar 24 | MPI, Distributed Memory Programming, Day 3 | [Read sections 4-7](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_02.pdf)
-Mon, Mar 27 | MPI, Distributed Memory Programming, Day 4 | [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
-Fri, Mar 29 | TBD |
+Mon, Mar 11 | NVIDIA GPU CUDA Programming, Day 3 |
+Wed, Mar 13 | NVIDIA GPU CUDA Programming, Day 4 | Homework 2 Due :unamused:, [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
+Fri, Mar 15 | NVIDIA GPU CUDA Programming, Day 5 | 
+Mon, Mar 18 | MPI, Distributed Memory Programming, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/mpi/)
+Wed, Mar 20 | MPI, Distributed Memory Programming, Day 2 |
+Fri, Mar 22 | MPI, Distributed Memory Programming, Day 3 | [Read sections 4-7](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_02.pdf)
+Mon, Mar 25 | MPI, Distributed Memory Programming, Day 4 | [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
+Wed, Mar 27 | TBD |
+Fri, May 29 | TBD |
 Mon, Apr 1 | TBD |
 Wed, Apr 3 | Exam Review | Homework 3 Due :unamused:
 Fri, Apr 5 | Exam | :tired_face:
