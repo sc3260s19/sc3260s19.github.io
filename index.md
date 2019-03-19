@@ -85,13 +85,13 @@ Fri, Mar 8 | **Spring Break, No Class** | :no_good:
 Mon, Mar 11 | NVIDIA GPU CUDA Programming, Day 3 |
 Wed, Mar 13 | NVIDIA GPU CUDA Programming, Day 4 | Homework 2 Due :unamused:, [Read through section 3.2.3](http://docs.nvidia.com/cuda/cuda-c-programming-guide/#axzz3RIOMQW00)
 Fri, Mar 15 | NVIDIA GPU CUDA Programming, Day 5 | 
-Mon, Mar 18 | MPI, Distributed Memory Programming, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/mpi/)
-Wed, Mar 20 | MPI, Distributed Memory Programming, Day 2 |
-Fri, Mar 22 | MPI, Distributed Memory Programming, Day 3 | [Read sections 4-7](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_02.pdf)
-Mon, Mar 25 | MPI, Distributed Memory Programming, Day 4 | [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
-Wed, Mar 27 | TBD |
-Fri, May 29 | TBD |
-Mon, Apr 1 | TBD |
+Mon, Mar 18 | NVIDIA GPU CUDA Programming, Day 6 | 
+Wed, Mar 20 | NVIDIA GPU CUDA Programming, Day 7 | 
+Fri, Mar 22 | NVIDIA GPU CUDA Programming, Day 8 | 
+Mon, Mar 25 | MPI, Distributed Memory Programming, Day 1 | [Read sections 1-3](https://computing.llnl.gov/tutorials/mpi/)
+Wed, Mar 27 | MPI, Distributed Memory Programming, Day 2 |
+Fri, Mar 29 | MPI, Distributed Memory Programming, Day 3 | [Read sections 4-7](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_02.pdf)
+Mon, Apr 1 | MPI, Distributed Memory Programming, Day 4 | [Read sections 8-11](https://computing.llnl.gov/tutorials/mpi/), [slides](http://www.accre.vanderbilt.edu/wp-content/uploads/2014/12/mpi_03.pdf)
 Wed, Apr 3 | Exam Review | Homework 3 Due :unamused:
 Fri, Apr 5 | Exam | :tired_face:
 Mon, Apr 8 | Work on Capstone |
